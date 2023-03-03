@@ -1,4 +1,3 @@
-import RestaurantInfo from './RestaurantInfo';
 import { INIT_DATA } from '../constants/initData';
 import { Restaurant, SortBy, Category } from '../types/Restaurant.js';
 
